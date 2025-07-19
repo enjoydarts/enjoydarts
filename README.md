@@ -1,8 +1,18 @@
-# Hi, I'm Minoru 👋
+# 👋 Hello, I'm Minoru Kitayama
 
-I like web engineering, motorcycles, gadgets, and audio gear.
+A freelance web engineer based in Japan.  
+I build solid apps, chase clean code, and ride fast bikes.  
+Lover of gadgets, fragrances, and Hi-Fi sound.
 
-🔐 Verifying my identity: https://keyoxide.org/minoru%40kitayama.net  
+[🌐 Website](https://minoru.info) ・ [🔐 Keyoxide](https://keyoxide.org/minoru%40kitayama.net) ・ [✉️ Contact](mailto:minoru@kitayama.net)
+
+---
+
+## 🔐 Identity Verification
+
+I verify my identity using [Keyoxide](https://keyoxide.org).  
+Below is a cryptographic proof of my GitHub account ownership:
+
 ````plaintext
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
