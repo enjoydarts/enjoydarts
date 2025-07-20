@@ -4,7 +4,7 @@ A freelance web engineer based in Japan.
 I build solid apps, chase clean code, and ride fast bikes.  
 Lover of gadgets, fragrances, and Hi-Fi sound.
 
-[🌐 Website](https://minoru.info) ・ [🔐 Keyoxide](https://keyoxide.org/minoru%40kitayama.net) ・ [✉️ Contact](mailto:minoru@kitayama.net)
+[🌐 Website](https://minoru.info) ・ [🔐 Keyoxide](https://keyoxide.org/minoru%40kitayama.net) ・ [✉️ Contact](mailto:minoru@kitayama.dev)
 
 ---
 
