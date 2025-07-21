@@ -1,8 +1,7 @@
 # 👋 Hello, I'm Minoru
 
-A freelance web engineer based in Japan.  
-I build solid apps, chase clean code, and ride fast bikes.  
-Enthusiast of gadgets, fragrances, and Hi-Fi sound.
+Freelance web engineer. Writing clean code, collecting scents, and chasing crisp sound.
+Ruby, PHP, TypeScript—plus whatever works.
 
 [🌐 Website](https://minoru.info) ・ [🔐 Keyoxide](https://keyoxide.org/545B68AB29EC0A5A2E025FAE371C9F414B2A20BF) ・ [✉️ Contact](mailto:minoru@kitayama.dev)
 
