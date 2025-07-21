@@ -1,19 +1,24 @@
 # 👋 Hello, I'm Minoru
 
-A freelance web engineer traveling around Japan.
-I mainly work with Ruby, PHP, and TypeScript, but I’m always open to using whatever works best.
+A freelance web engineer traveling around Japan.  
+I mainly work with **Ruby**, **PHP**, and **TypeScript**, but I’m always open to using whatever works best.
 
-I'm passionate about writing clean, maintainable code, and I’m equally obsessed with gadgets, hi-fi audio, and niche fragrances.
+I'm passionate about writing **clean, maintainable code**, and I’m equally obsessed with **gadgets**, **hi-fi audio**, and **niche fragrances**.
 
 While I hop from city to city, I bring my setup with me — always tuned for great sound and good code.
 
-[🌐 Website](https://minoru.info) ・ [🔐 Keyoxide](https://keyoxide.org/545B68AB29EC0A5A2E025FAE371C9F414B2A20BF) ・ [✉️ Contact](mailto:minoru@kitayama.dev)
+---
+
+### 🌐 Links
+- 🔐 [Keyoxide](https://kitayama.net/keyoxide)
+- ✉️ [Contact](mailto:minoru@kitayama.dev)
+- 🖥️ [Website](https://minoru.info)
 
 ---
 
-## 🔐 Identity Verification
+### 🔐 Identity Verification
 
-My identity is cryptographically verifiable via [Keyoxide](https://keyoxide.org).  
+My identity is cryptographically verifiable via [Keyoxide](https://kitayama.net/keyoxide).  
 Below is a signed proof of my GitHub account ownership (`@enjoydarts`):
 
 ```plaintext
