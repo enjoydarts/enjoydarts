@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Minoru Kitayama
+# 👋 Hello, I'm Minoru
 
 A freelance web engineer based in Japan.  
 I build solid apps, chase clean code, and ride fast bikes.  
