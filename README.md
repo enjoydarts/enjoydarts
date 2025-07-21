@@ -2,18 +2,18 @@
 
 A freelance web engineer based in Japan.  
 I build solid apps, chase clean code, and ride fast bikes.  
-Lover of gadgets, fragrances, and Hi-Fi sound.
+Enthusiast of gadgets, fragrances, and Hi-Fi sound.
 
-[🌐 Website](https://minoru.info) ・ [🔐 Keyoxide](https://keyoxide.org/minoru%40kitayama.net) ・ [✉️ Contact](mailto:minoru@kitayama.dev)
+[🌐 Website](https://minoru.info) ・ [🔐 Keyoxide](https://keyoxide.org/545B68AB29EC0A5A2E025FAE371C9F414B2A20BF) ・ [✉️ Contact](mailto:minoru@kitayama.dev)
 
 ---
 
 ## 🔐 Identity Verification
 
-I verify my identity using [Keyoxide](https://keyoxide.org).  
-Below is a cryptographic proof of my GitHub account ownership:
+My identity is cryptographically verifiable via [Keyoxide](https://keyoxide.org).  
+Below is a signed proof of my GitHub account ownership (`@enjoydarts`):
 
-````plaintext
+```plaintext
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
 
@@ -34,3 +34,8 @@ b0pD4L88cIgNiWugR6EevL4HDeX8Cncgd20qAdplhxYndt9o2lgiLphkFiau9ygS
 IY/evnFMoTc5ahmZnwf/WJVtOImcbWtZYHvFzCgzEzHTejWQ0wc=
 =DU3g
 -----END PGP SIGNATURE-----
+GNATURE-----
+```
+
+🔎 See more verified claims (email, domains, and more):<br>
+👉 [keyoxide.org/545B68AB29EC0A5A2E025FAE371C9F414B2A20BF](https://keyoxide.org/545B68AB29EC0A5A2E025FAE371C9F414B2A20BF)
