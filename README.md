@@ -12,7 +12,7 @@ While I hop from city to city, I bring my setup with me — always tuned for gre
 ### 🌐 Links
 - 🔐 [Keyoxide](https://kitayama.net/keyoxide)
 - ✉️ [Contact](mailto:minoru@kitayama.dev)
-- 🖥️ [Website](https://minoru.info)
+- 🖥️ [Website](https://minoru.bio)
 
 ---
 
